@@ -1,0 +1,10 @@
+# Exclude non relevant CubeMX files and folders
+CM33/
+Common/
+Drivers/
+Utilities/
+*.ioc
+*.inc
+*.mxproject
+*.project
+*.settings
